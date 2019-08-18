@@ -25,6 +25,9 @@ while True:
         elif fImc > 30.0:
             print("=> Muito acima do peso")
     
-    if condicao == 2:
+    elif condicao == 2:
         print("\nSaindo do programa...\n")
         break
+    
+    else:
+        print("\nOpcao Inválida...\n")
