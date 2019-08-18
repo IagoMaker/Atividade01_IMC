@@ -1,5 +1,4 @@
 # CÁLCULO DO ÍNDICE DE MASSA CORPORAL (IMC)
-==================================================
 
 Programa desenvolvido com o Python (versão 3.7.4) para realizar o cálculo do Índice de Massa Corporal (IMC) e com base no resultado deste cálculo, verificar se o indivíduo está muito abaixo do peso, abaixo do peso normal, com o peso dentro do normal, acima do peso normal ou, muito acima do peso.
 
